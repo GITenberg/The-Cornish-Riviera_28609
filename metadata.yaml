@@ -1,0 +1,41 @@
+_repo: The-Cornish-Riviera_28609
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehurst, Ernest William
+    - Haslehust, Ernest William
+    - Haslehurst, E. W.
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heath, Sidney
+    aliases:
+    - Heath, Sidney Herbert
+    - Heath, Sidney H.
+    birthdate: 1872
+    gutenberg_agent_id: '6215'
+    url: http://www.gutenberg.org/2009/agents/6215
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Heath
+description: ''
+gutenberg_issued: '2009-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cornwall (England : County) -- Description and travel'
+- !lcc 'DA'
+title: The Cornish Riviera
+url: http://www.gutenberg.org/ebooks/28609
